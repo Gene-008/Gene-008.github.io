@@ -1,0 +1,11 @@
+---
+title: "DSCI_521 Lab 2 Quarto Project"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Hello World! 
+
+These are my edits for Lab 2 Quarto project.
